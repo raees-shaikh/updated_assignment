@@ -1,0 +1,56 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+#blue-link{
+    padding: 0%;
+   font-size: small;
+    color: blue;
+    margin-left: 40px;
+    margin-top: -10px;
+}
+#certified{
+    padding: 0%;
+    font-size: small;
+     color: black;
+     margin-left: 40px;
+     margin-top: -8px;
+}
+#indus{
+    padding: 0%;
+    font-size: small;
+     color: black;
+     margin-left: 40px;
+     margin-top: -8px;
+}
+.heading{
+    color: black;
+}
+.subhead{
+    font-size: medium;
+}
+#contact{
+    margin-left: 70px;
+}
+#banner{
+    background: url("../images/handshake.jpg") no-repeat 0 0;
+    background-size: cover;
+    height: 700px;
+    
+    
+}
+#count{
+    font-size: 40px;
+    margin-top: 280px;
+}
+#footer{
+    background: url("../images/highquality.png") no-repeat 0 0;
+    background-size: cover;
+    height: 300px;
+    opacity: 0.2;
+    background-color: rgb(5, 5, 83);
+}
+#footerstyle{
+    background-color: black;
+}
